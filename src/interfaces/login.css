@@ -11,6 +11,7 @@ body{
 
 }
 form{
+      background-color: magenta;
       padding: 5px 15px;
       width: 22%;
       border-radius: 12px;
