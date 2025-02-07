@@ -1,0 +1,37 @@
+*{
+      margin: 0;
+      padding: 0;
+      font-family: Arial;
+}
+body{
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+
+}
+form{
+      padding: 5px 15px;
+      width: 22%;
+      border-radius: 12px;
+      font-size: 3em;
+      border: solid;
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+}
+form>h6{
+      font-weight:lighter;
+      align-self:flex-start;
+      
+}
+form>input{
+      width: 70%;
+      margin: 20px 0px 25px 20px;
+      padding: 12px 0px;
+      border-radius: 15px;
+      border: solid 1px gray;
+}
+form>div{
+      padding: 15%;
+}
